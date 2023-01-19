@@ -41,6 +41,7 @@ exports.config = {
       automationName: "XCUITest",
       bitbar_project: "WebdriverIO_Frida_iOS",
       bitbar_testrun: "test",
+      bitbar_biometricInstrumentation: "true",
     }],
 
     //
