@@ -5,7 +5,7 @@
   "author": "Marek Sierociński <marek.sierocinski@smartbear.com>",
   "license": "ISC",
   "scripts": {
-    "test": "npx wdio wdio.conf.js"
+    "test": "npx wdio iosBiometry.conf.js"
   },
   "engines": {
     "npm": ">=6.0.0"
